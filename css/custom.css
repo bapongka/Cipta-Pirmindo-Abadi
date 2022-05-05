@@ -1,0 +1,33 @@
+.company-color {
+    color: #bd6293;
+}
+
+.home-bg {
+    background-image: url("/img/banner/homepage/banner-homepage.jpg");
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.text-cpa-color {
+    color: #bd6293;
+}
+
+@media (min-width: 1440px) {
+    .text-footer-cpa {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .logo-footer{
+        width: 280px;
+    }
+}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 414px) {}
